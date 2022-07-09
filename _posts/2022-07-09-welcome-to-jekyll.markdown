@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Deerhub.com Blog!"
 date:   2022-07-09 18:26:19 -0400
 categories: jekyll update
 ---
