@@ -33,5 +33,6 @@ jobs:
           cname: ''                  # Default is to not use a cname
           actor: ''                  # Default is the GITHUB_ACTOR
           pre_build_commands: ''     # Installing additional dependencies (Arch Linux)
+        env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
           JEKYLL_ENV: production 
